@@ -28,7 +28,7 @@ namespace ConsoleApp1
 
         public void newMethod()
         {
-            int sum = 0;
+            int sum = 0; 
             for (int a = 819; a > 205; a -= 17)
             {
                 sum += a;
