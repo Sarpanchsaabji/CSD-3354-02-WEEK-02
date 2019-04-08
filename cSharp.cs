@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            var jatinder = new newClass();
-            jatinder.newMethod();
+            var navjot = new newClass();
+            navjot.newMethod();
         }
     }
 
